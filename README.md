@@ -1,0 +1,1 @@
+## Magazine manager Rest API
